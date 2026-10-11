@@ -11,13 +11,13 @@ import {
 
 // 🔧 ЗАМЕНИ НА СВОЙ КОНФИГ ИЗ FIREBASE CONSOLE
 const firebaseConfig = {
-  apiKey: "AIza...",
-  authDomain: "clipsync-xxxxx.firebaseapp.com",
-  databaseURL: "https://clipsync-xxxxx-default-rtdb.firebaseio.com",
-  projectId: "clipsync-xxxxx",
-  storageBucket: "clipsync-xxxxx.appspot.com",
-  messagingSenderId: "000000000000",
-  appId: "1:000000000000:web:xxxxxxxxxxxx",
+  apiKey: "AIzaSyAtcBdqOncoh_rCLsjVvCWcNDYshCZeAAw",
+  authDomain: "clipsyns-ae937.firebaseapp.com",
+  databaseURL: "https://clipsyns-ae937-default-rtdb.firebaseio.com",
+  projectId: "clipsyns-ae937",
+  storageBucket: "clipsyns-ae937.firebasestorage.app",
+  messagingSenderId: "963165750570",
+  appId: "1:963165750570:web:ae1fa6e23bbe667f374a53",
 };
 
 const app = initializeApp(firebaseConfig);
